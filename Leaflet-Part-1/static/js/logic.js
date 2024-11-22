@@ -77,5 +77,5 @@ legend.onAdd = function () {
 
 legend.addTo(myMap);
 
-fig.write_image("map.png");
+
 
